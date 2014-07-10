@@ -49,3 +49,8 @@ The arguments are:
 - **refresh** how often should the app refresh and store a point in the DB
 - **retain** how long should points be kept in the DB
 - **dbName** where to store the history (default 'offsetapp')
+
+墙
+==
+把墙外的js文件放到了包内
+

@@ -52,5 +52,5 @@ The arguments are:
 
 墙
 ==
-把墙外的js文件放到了包内
+把墙外的js文件放到了scripts目录
 
